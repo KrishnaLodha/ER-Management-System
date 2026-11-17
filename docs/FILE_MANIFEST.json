@@ -142,5 +142,11 @@
     "size": 187478,
     "sha256": "e279183f13d8ca32e051be9be737b4db2e44c50b5eb1dacb03f24c37725e95b2",
     "git_blob_sha": "a118be14cba716cdb58452b91446ea033bc299f9"
+  },
+  {
+    "path": "archive/earlier-reports/ER Capacity Pulse - Additional Word Copy.docx",
+    "size": 15133385,
+    "sha256": "92baf14d77b1467f193b0341f7d67aea7ee28a44785645f0cd017379d66ea9ad",
+    "git_blob_sha": "edfcc57fce72e1b3a109ada673654eb721465f1a"
   }
 ]
