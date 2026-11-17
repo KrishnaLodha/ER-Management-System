@@ -1,0 +1,146 @@
+[
+  {
+    "path": ".gitignore",
+    "size": 47,
+    "sha256": "f58fe664bbcc9afec35874410a2f083d860b5ef88bec222f74b7a783bef52435",
+    "git_blob_sha": "57a77d5535099929ee5a669c20409d37d3355ebd"
+  },
+  {
+    "path": "README.md",
+    "size": 3697,
+    "sha256": "acbb86966677b755ce8359e486e6a6c04af0fc3cc53a04b580ae642f71e60219",
+    "git_blob_sha": "19de526eca057efc8f102043a5e2792d0031eabb"
+  },
+  {
+    "path": "archive/ER project working files.zip",
+    "size": 203572,
+    "sha256": "1104bb5ff5ec7192a469b0b428a8423d6c1d380c1c995a37da6938c057fc1eb1",
+    "git_blob_sha": "6659b7954210be7adedf12c52805b6e9d273cc40"
+  },
+  {
+    "path": "archive/earlier-reports/ER Capacity Pulse - Case Study Report.docx",
+    "size": 13673903,
+    "sha256": "8e657d4d03ceaf9e2d1de662762319555ec86e7e9e2dc7fc1f94c95991bd2515",
+    "git_blob_sha": "3437bccf516dd4b38b8e5b365146e8a4e0f5cca1"
+  },
+  {
+    "path": "archive/earlier-reports/ER Capacity Pulse - Case Study Report.pdf",
+    "size": 3368802,
+    "sha256": "325e6756978bbeda2fedd2582fca87689a7c3898416caf305764716d70c7b083",
+    "git_blob_sha": "71b0f6306166835e310bac25cc1ccfa6f4521d11"
+  },
+  {
+    "path": "archive/original-project/ER_Capacity_Pulse.pptx",
+    "size": 315862,
+    "sha256": "859c2df6da546b77243677332fad447285918fb4d6e2fa18305f0322eabb078f",
+    "git_blob_sha": "bbfc2db720162ac5e068bb6d3a31e125f6f28be1"
+  },
+  {
+    "path": "archive/original-project/ER_Capacity_Pulse_Extended_Demo_Dataset.csv",
+    "size": 927,
+    "sha256": "3df76b897020baea2742116ccb7d4f56bf637066f783359977995653be28b652",
+    "git_blob_sha": "c42e94556abd3ba1f08067828e22f142cfd3a8b4"
+  },
+  {
+    "path": "archive/original-project/Tableau.twb",
+    "size": 168823,
+    "sha256": "4d30bce535c3edff6d1aafa9fe2004e50816a78393d5ea0dc34798cbe84a4b02",
+    "git_blob_sha": "03c7cc093a965e6360179cbf34e90ad6e250b187"
+  },
+  {
+    "path": "data/ER Case 2 Hourly Demo.csv",
+    "size": 1046,
+    "sha256": "7d4d6e3cfc5eccdd99d38839f2e7a56ee752124a3403b009585156a8d9ce25ea",
+    "git_blob_sha": "3aec571459879282f773277e7141488c5b32b6f4"
+  },
+  {
+    "path": "docs/DATA_AND_CALCULATIONS.md",
+    "size": 2043,
+    "sha256": "27aa29c23315d50208be05a1c484137b7c965525c0305979b30fd09b3bb71f62",
+    "git_blob_sha": "43d0fe23139bd604efda3a1b2915ff473cce7e58"
+  },
+  {
+    "path": "images/alerts.png",
+    "size": 36155,
+    "sha256": "c914e14161ab5ca87e8705c913b911a53fe52c64759954ba9286c1a22adf3be5",
+    "git_blob_sha": "eae10b25af6e8da18cee73815c8889fba63762e4"
+  },
+  {
+    "path": "images/band.png",
+    "size": 48628,
+    "sha256": "0d15402cddff8d7c70adf3a5a8da619eeec27dc1c75765a4ba486015b8975499",
+    "git_blob_sha": "998abb8df5f517c060c35d67361334df21529908"
+  },
+  {
+    "path": "images/dashboard.png",
+    "size": 243770,
+    "sha256": "336d2d13f6d774027095d05df4f4b51022cea878dd5e85e7c14fe0f79898b81a",
+    "git_blob_sha": "ee74bd9b3200f86c374e6911d96ec860f371f211"
+  },
+  {
+    "path": "images/detail.png",
+    "size": 7975,
+    "sha256": "687536501ccd99aaa4df3e89b559db8d77b41a2fac8d0864fd613081f14d8011",
+    "git_blob_sha": "8d15399c10ab23bfa1756c12cabb0fa6c05aab02"
+  },
+  {
+    "path": "images/improved.png",
+    "size": 24835,
+    "sha256": "a33fa3b5cdb92d5b2cc3a8a404cec12aa4789012152c364cce1ac7aa146c321f",
+    "git_blob_sha": "dc65a719b674989f71105d78f71ba298f029cf83"
+  },
+  {
+    "path": "images/kpi.png",
+    "size": 29285,
+    "sha256": "e76185d4fb124ba6cd1d7720026c2134e6c6b0dd5814250a8f0eebd5c49b85af",
+    "git_blob_sha": "a4de18519d0d165eacefcf449cee0a293628c2b2"
+  },
+  {
+    "path": "images/naive.png",
+    "size": 23366,
+    "sha256": "f486dccaa627b8d8b71fcf91dd08550f4de532c199d5fda91c3bf691eb6b4541",
+    "git_blob_sha": "da1d220d30a65fdaf324d47682ee85e51ef7c982"
+  },
+  {
+    "path": "images/occupancy.png",
+    "size": 57920,
+    "sha256": "8aee7f0aac2b4cacbde12a84ae7d0224015d791947a80f34a2ba6c6108ed96ba",
+    "git_blob_sha": "791b36d4b890750faf394305edd363d40a5db669"
+  },
+  {
+    "path": "images/severity.png",
+    "size": 44693,
+    "sha256": "04d26afc9d640a56fce6b39d6bb546159fc005934f1f7571fead9fe36dfde13a",
+    "git_blob_sha": "a79e7b44511c1bcb2ae6ebb6499a651e65ebb5d9"
+  },
+  {
+    "path": "reports/ER Capacity Pulse - Case 2 Report.docx",
+    "size": 8844258,
+    "sha256": "190dfe56c614f9a2eedeb365fa8bfa56b2a001ef023ae7bd4f37bb3509d633ba",
+    "git_blob_sha": "23abe4fdca5a39871057245f6932db3ef1c5552a"
+  },
+  {
+    "path": "reports/ER Capacity Pulse - Case 2 Report.pdf",
+    "size": 3544925,
+    "sha256": "49ecfe022548f880b5bd295030d5f9f1c1ff61f7c6c3b9127df48a3f81138939",
+    "git_blob_sha": "c88b2915bed8b8f91ef57401e3c8b700bd8a0467"
+  },
+  {
+    "path": "tableau/ER Capacity Pulse - Case 2.twbx",
+    "size": 105365,
+    "sha256": "14332a6421905d88bf405867c169422bb72055f70c2c77597504349a94c1a28e",
+    "git_blob_sha": "42abda64abd9fe83628127721277ea180343b003"
+  },
+  {
+    "path": "tableau/unpacked/Data/Data/ER Case 2 Hourly Demo.csv",
+    "size": 1046,
+    "sha256": "7d4d6e3cfc5eccdd99d38839f2e7a56ee752124a3403b009585156a8d9ce25ea",
+    "git_blob_sha": "3aec571459879282f773277e7141488c5b32b6f4"
+  },
+  {
+    "path": "tableau/unpacked/ER Capacity Pulse - Case 2.twb",
+    "size": 187478,
+    "sha256": "e279183f13d8ca32e051be9be737b4db2e44c50b5eb1dacb03f24c37725e95b2",
+    "git_blob_sha": "a118be14cba716cdb58452b91446ea033bc299f9"
+  }
+]
